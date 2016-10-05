@@ -1,0 +1,27 @@
+div {
+    text-align: center
+}
+
+table {
+    margin-left:auto; 
+    margin-right:auto;
+    border-collapse: separate;
+}
+
+td {
+    height: 50px;
+    width: 50px;
+    font-size: 24px;
+    border: solid 2px;
+    text-align: center;
+}
+
+.reddisc
+{
+    background-color: red;
+}
+.yellowdisc
+{
+    border: solid 2px;
+    background-color: yellow;
+}
